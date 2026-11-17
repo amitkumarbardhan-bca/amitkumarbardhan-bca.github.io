@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["XL6267CQ54.tv.aos.autocapture"],
+        "components": [{ "/": "*" }]
+      }
+    ]
+  }
+}
