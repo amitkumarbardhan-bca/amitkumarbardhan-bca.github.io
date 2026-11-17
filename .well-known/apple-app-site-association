@@ -3,8 +3,16 @@
     "details": [
       {
         "appIDs": ["XL6267CQ54.tv.aos.autocapture"],
-        "components": [{ "/": "*" }]
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
       }
     ]
+  },
+  "webcredentials": {
+    "apps": ["XL6267CQ54.tv.aos.autocapture"]
   }
 }
+
